@@ -22,4 +22,4 @@ Are there any caveats to calculations? | Only calculated when there are more tha
 
 Alice and Bob have the exact same amount of Reputation (141 points). But Alice has a higher Signal (4.6 > 2.09), which indicates having a better track record of submitting valid reports. Alice, also has higher Impact (15.83 > 9.5) and therefore, a higher chance of submitting an important report.
 
-This is valuable information for both of them. Alice will see that she is doing quite well with her current trajectory, while Bob will see that others are more accurate about their reports and can adjust his reporting processes accordingly.
+This is valuable information for both of them. Alice will see that she is doing quite well with her current trajectory, while Bob will see that others are more accurate about their reports and can adjust his reporting processes accor Plugin/src/main/res/values-w820dp/dimens.xml
